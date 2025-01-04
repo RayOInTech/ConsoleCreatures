@@ -8,6 +8,8 @@ using System;
     
     Console.WriteLine("My name is Spooky the Ghost\n");
 
+//Consile.WriteLine is how to execute string characters in C.
+    
     //Here is my second Console Creature the Angry Volcano.
     Console.WriteLine("   (   )");
     Console.WriteLine("  ( (  )  )");
